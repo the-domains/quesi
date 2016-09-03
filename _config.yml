@@ -1,19 +1,4 @@
-name: QueSi
-favicon: null
-layout_spectrum: 0.2601351784542203
 typography_spectrum: 0.29904859559610486
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#17BEBB'
@@ -25,4 +10,20 @@ color:
   lightness: 0.968798712361604
   saturation: 0.6063619423657656
   rhythmicContrast: 0.8248278091195971
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.2601351784542203
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: QueSi
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+title: Enabling & Manifesting
 purpose: []
