@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Enabling & Manifesting]]></title>
         <description><![CDATA[Enabling & Manifesting]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/quesi/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 01 Sep 2016 06:21:43 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 01 Sep 2016 06:22:44 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/quesi/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/86f8bafa-432b-4da9-9ec5-12e8acf75d82.jpg" alt="Friends of Ananda Encinitas">]]></description>
+            <link>https://thegrid.ai/quesi/sunday-satsang-the-beach/index.html</link>
+            <guid isPermaLink="false">d6018d47-4143-45be-88c8-3793dbd39600</guid>
+            <pubDate>Thu, 01 Sep 2016 06:22:37 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/b18ed471-da34-4f61-9d11-42f9c988266a.jpg">]]></description>
-            <link>undefinedloving-family/index.html</link>
+            <link>https://thegrid.ai/quesi/loving-family/index.html</link>
             <guid isPermaLink="false">6e467e06-42dd-4dd3-a354-8f77fb761dc1</guid>
             <pubDate>Thu, 01 Sep 2016 06:21:41 GMT</pubDate>
         </item>
