@@ -1,13 +1,13 @@
 ---
-datePublished: '2016-09-01T06:22:37.463Z'
+datePublished: '2016-09-01T06:24:17.902Z'
 author: []
 via: {}
-dateModified: '2016-09-01T06:22:37.057Z'
+dateModified: '2016-09-01T06:24:17.755Z'
 title: ''
 publisher: {}
 description: Sunday Satsang @ the beach
-starred: false
 sourcePath: _posts/2016-09-01-sunday-satsang-the-beach.md
+starred: false
 inFeed: true
 hasPage: true
 inNav: false
